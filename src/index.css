@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Custom styles can be added below */
+
+/* Example: */
+/* .custom-class { */
+/*   @apply text-center bg-blue-500; */
+/* } */
